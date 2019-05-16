@@ -2,6 +2,7 @@
 short-name: Jim
 name: James A. Darragh
 position: Sr. Software Developer
+layout: page
 ---
 
 Jim is an outside consultant to Entrotech, helping with Angular projects, and generally being a pain in the ass.
