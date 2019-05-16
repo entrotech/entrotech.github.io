@@ -13,4 +13,10 @@ layout: page
     <p>{{ post.excerpt }}</p>
   </li>
   {% endfor %}
+
+  <ul>
+    {% for tag in site.tags %}
+    <li>{{ tag[0] }}</li>
+    {% endfor %}
+  </ul>
 </ul>
