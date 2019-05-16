@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/authors/jim-darragh.html</loc>
+<lastmod>2019-05-15T18:43:25-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/authors/john-darragh.html</loc>
+<lastmod>2019-05-15T18:43:25-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019/05/11/react-router-quick-start.html</loc>
+<lastmod>2019-05-11T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019/05/12/working-with-dates-and-times-in-a-full-stack-react-app.html</loc>
+<lastmod>2019-05-12T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2019/05/15/uploading-files-to-AWS-s3.html</loc>
+<lastmod>2019-05-15T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/staff.html</loc>
+</url>
+</urlset>
