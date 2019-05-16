@@ -10,4 +10,5 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
 end
 
+gem "jekyll-theme-minima"
 gem "github-pages", group: :jekyll_plugins

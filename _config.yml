@@ -23,4 +23,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minima
+
+github: [metadata]
